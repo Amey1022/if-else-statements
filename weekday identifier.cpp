@@ -35,6 +35,10 @@ int main()
 
     
 }
+/*OUTPUT
+enter a number for day(1-7):5
+You have chosen Friday!
+*/
 
 
 
