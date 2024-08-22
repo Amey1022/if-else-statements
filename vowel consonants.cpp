@@ -14,3 +14,7 @@ int main()
         cout<<ch<<" is a consonant!";
     }
 }
+/*OUTPUT
+enter a character:a
+a is a vowel!
+*/
