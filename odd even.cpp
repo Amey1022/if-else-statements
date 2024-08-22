@@ -14,3 +14,7 @@ int main()
         cout<<a<<" is odd!"<<endl;
     }
 }
+/* OUTPUT
+enter a number:75
+75 is odd!
+*/
