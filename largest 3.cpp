@@ -22,3 +22,9 @@ int main()
         cout<<c<<" is the largest"<<endl;
     }
 }
+/*OUTPUT
+enter num 1:20
+enter num 2:30
+enter num 3:40
+40 is the largest
+*/
